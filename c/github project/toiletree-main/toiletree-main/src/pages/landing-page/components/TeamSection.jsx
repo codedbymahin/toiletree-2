@@ -1,0 +1,1 @@
+// Team cards simplified for non-founders
